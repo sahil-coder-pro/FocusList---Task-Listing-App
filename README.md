@@ -14,3 +14,6 @@ How to Use the App
 3. Delete a Todo: Remove a todo by clicking the "Cross" icon next to it.
 4. View Todos: All added todos will be displayed in the main section of the application.
 
+# Project Link
+This project is currently deployed on vercel and you can view it using the following link.
+[Website Link](https://focus-list-task-listing-app.vercel.app/)
